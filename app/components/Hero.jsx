@@ -34,7 +34,7 @@ const Hero = () => {
 customer relations gained through both academic and professional experiences, I am well-equipped to excel in high-pressure environments. My goal is to leverage my passion for technology and diverse background to foster company innovation
 and provide effective engineering solutions to complex technical challenges. </p>
       <div className="pt-4">
-        <Link href={'#contact'}>
+        <Link href={'https://wa.me/917709229063'}>
         <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-400 via-purple-600 to-pink-400 text-white hover:bg-slate-200 font-semibold'>Hire Me</button>
         </Link>
         <Link href={''} download={'/cv.pdf'} target='_blank'>

@@ -44,7 +44,7 @@ const Contact = () => {
         </div>
         </div>
         <div>
-        <form>
+        {/* <form>
           <div className="mb-6">
             <label
               htmlFor="email"
@@ -102,7 +102,7 @@ const Contact = () => {
                 {load ? 'Sending...' :'Send message'}
             </button>
           </div>
-        </form>
+        </form> */}
         </div>
     </div>
   )
