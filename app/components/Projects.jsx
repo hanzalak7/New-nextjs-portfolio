@@ -11,18 +11,18 @@ import Image5 from '../../public/Images/project5.png'
 const projectData = [
     {
         id:3,
-        title:'Netflix Clone',
-        description:'A functional clone of netflix with passwordless authentication and with using google apis for data.',
-        imgUrl:Image4.src,
+        title:'DGTC College Website',
+        description:'HTML , CSS , Javascript , Bootstrap , Jquery , React Js',
+        imgUrl:Image1.src,
         gitUrl:'https://github.com/hanzalak7/',
         previewUrl:'#',
         tags:['All','Web']
     },
     {
         id:1,
-        title:'Coffee Connosoure ',
-        description:'A easy to use web application in finding Coffee stores near you with the help of geolocations.',
-        imgUrl:Image1.src,
+        title:'Online Calculator',
+        description:'HTML 5, CSS 3, Javascript',
+        imgUrl:Image2.src,
         gitUrl:'https://github.com/hanzalak7/',
         previewUrl:'#',
         tags:['All','Web']
