@@ -29,11 +29,7 @@ const Contact = () => {
     <div id='contact' className='grid md:grid-cols-2 mt-12 mb-4  md:my-16 pt-24 pb-12 gap-4 relative'>
         <div className="text-white">
         <h5 className="text-xl font-bold text-white my-2">Let&apos;s Connect</h5>
-        <p className="text-[#ADB7BE] mb-4 max-w-md">
-          I&apos;m currently looking for new opportunities, my inbox is always open.
-          Whether you have a question or just want to say hi, I&apos;ll try my best
-          to get back to you!
-        </p>
+       
         <div className="flex gap-4 items-center w-full">
         <Link href='https://github.com/hanzalak7' target='_blank'>
         <FaGithub className='h-12 w-12'/>
