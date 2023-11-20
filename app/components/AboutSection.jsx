@@ -21,7 +21,6 @@ const TAB_DATA = [
                 <li>React js</li>
                 <li>JQuery</li>
                 <li>Gen AI</li>
-
             </ul>
         )
     },
@@ -30,7 +29,7 @@ const TAB_DATA = [
         id:'education',
         content:(
             <ul className='list-disc flex flex-col gap-2'>
-                <li>Full Stack Web Developer</li>
+\                <li>Full Stack Web Developer</li>
             </ul>
         )
     },
@@ -39,7 +38,7 @@ const TAB_DATA = [
         id:'experience',
         content:(
             <ul className='list-disc flex flex-col gap-2'>
-                <li></li>
+                <li>Intern at XOVEX IT</li>
             </ul>
         )
     }
@@ -70,9 +69,7 @@ const AboutSection = () => {
             />
             <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h1 className="text-4xl mb-4 font-bold text-white">About Me</h1>
-                <p className='text-base lg:text-lg '>I'm a Full Stack Web Developer & Tech project Manager, I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences and My core interest lies with Microsoft Technologies, Microsoft Azure and AI Cognitive offerings. .
-
-</p>
+                <p className='text-base lg:text-lg '>A Software Developer with entry-level experience specializing in Full stack Web Development. I have worked with Nextjs, Tailwind CSS, JavaScript, Nodejs, MongoDb and am aiming for continuous improvement. A mindset to be team Player.</p>
                 <div className="flex gap-4 py-3">
                     <TabButton selectTab={() => {handleTabChange('skills')}} active={tab === 'skills'}>Skills</TabButton>
                     <TabButton selectTab={() => {handleTabChange('education')}} active={tab === 'education'}>Education</TabButton>
