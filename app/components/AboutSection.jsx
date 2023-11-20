@@ -29,7 +29,7 @@ const TAB_DATA = [
         id:'education',
         content:(
             <ul className='list-disc flex flex-col gap-2'>
-\                <li>Full Stack Web Developer</li>
+                <li>Full Stack Web Developer</li>
             </ul>
         )
     },
@@ -38,7 +38,7 @@ const TAB_DATA = [
         id:'experience',
         content:(
             <ul className='list-disc flex flex-col gap-2'>
-                <li>Intern at XOVEX IT</li>
+                <li> </li>
             </ul>
         )
     }

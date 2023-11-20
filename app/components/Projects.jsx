@@ -47,8 +47,8 @@ const projectData = [
     },
     {
         id:5,
-        title:'Organic store',
-        description:'A basic website template for a ecommerce website written in pure html and css.',
+        title:'Movie webite',
+        description:'A basic website template for a movie website written in pure html and css.',
         imgUrl:Image3.src,
         gitUrl:'https://github.com/hanzalak7/',
         previewUrl:'#',
