@@ -34,8 +34,7 @@ const TAB_DATA = [
                 <li>Full Stack Web Developer</li>
             </ul>
         )
-    },
-    
+    }
 ]
 
 
