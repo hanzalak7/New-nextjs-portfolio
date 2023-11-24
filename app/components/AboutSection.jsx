@@ -69,7 +69,7 @@ const AboutSection = () => {
             />
             <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h1 className="text-4xl mb-4 font-bold text-white">About Me</h1>
-                <p className='text-base lg:text-lg '>A Software Developer with entry-level experience specializing in Full stack Web Development. I have worked with Nextjs, Tailwind CSS, JavaScript, Nodejs, MongoDb and am aiming for continuous improvement. A mindset to be team Player.</p>
+                <p className='text-base lg:text-lg '>With a strong foundation in project management, systems administration, and customer relations gained through both academic and professional experiences, I am well-equipped to excel in high-pressure environments. My goal is to leverage my passion for technology and diverse background to foster company innovation and provide effective engineering solutions to complex technical challenges. A mindset to be team Player.</p>
                 <div className="flex gap-4 py-3">
                     <TabButton selectTab={() => {handleTabChange('skills')}} active={tab === 'skills'}>Skills</TabButton>
                     <TabButton selectTab={() => {handleTabChange('education')}} active={tab === 'education'}>Education</TabButton>
